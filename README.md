@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rao-DYC
+- 👋 Hi, I’m @Dipin Yadav
 - 👀 I’m interested in Web Development and learning about new technologies
 - 🌱 I’m currently learning Javascript and Full Stack Development
 - 💞️ I’m looking to collaborate on ...
